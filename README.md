@@ -16,6 +16,6 @@ To raise your motivation, left click higher to pay yourself more (of whatever th
 
 If you feel you've accumulated too much height, either charge yourself a little more per break time or start at any chosen height with a right click.
 
-You should find yourself always just the right amount of motivated to work, varying the time worked, instead of varying the motivation and holding time constant. You will therefore work longer since you're not wasting motivation. You can also adjust how much value you feel in the breaks by adjusting their cost. You gain control of your motivation and can trade it between now and your near future.
+You should find yourself always just the right amount of motivated to work. You will therefore work longer since you're not wasting motivation. You can also adjust how much value you feel in the breaks by adjusting their cost. You gain control of your motivation and can trade it between now and your near future.
 
 Like an engine needs gears to torque it to start, so does motivation. Chosen speed of this dot is the torque of motivation, like money.
