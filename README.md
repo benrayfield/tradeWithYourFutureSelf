@@ -1,0 +1,3 @@
+Trade With Your Future Self
+
+Point on side of screen moves up and down at speed you change with 1 click. Speed is seen as another point where it will be in 10 minutes. Set the speed upward to as fast as you're getting work done. When you take a break, set the speed downward. Save break times for later or take them now. It will track your progress. The position of the dot feels like money you trade with your future self.
